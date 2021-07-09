@@ -5,12 +5,6 @@
     color: white;
 }
 
-.item{
-    float:left;
-    width: 150px;
-
-}
-
 .wrapper{
     background-color: grey;
 }
@@ -25,14 +19,18 @@
     background-color:green;
 }
 
+.item{
+    float:left;
+    width: 150px;
+
+}
+
 .item1{
     background-color: crimson;
-    float: left;
 }
 
 .item2{
     background-color: cyan;
-    float: right;
 }
 
 .item3{
